@@ -4,5 +4,6 @@
       "path": "/api/curation",
       "schedule": "0 6 * * *"
     }
-  ]
+  ],
+  "buildCommand": "next build"
 }
