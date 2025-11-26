@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build outputs
+.next
+out
+build
+dist
+
+# Environment files
+.env
+.env.local
+
+# Misc
+.git
+.vercel
+coverage
+*.log
+package-lock.json
